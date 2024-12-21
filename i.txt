@@ -1,0 +1,2 @@
+1.What is React.js ?
+ Ans = React is a ui librray that help to build interfca efor web applications
